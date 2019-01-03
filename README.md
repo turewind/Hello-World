@@ -1,6 +1,6 @@
 # Hello-World
 ---
-###The very first repository.
+## The very first repository.
 ---
 ## Make and commit changes
 1. Click the README.md file.
